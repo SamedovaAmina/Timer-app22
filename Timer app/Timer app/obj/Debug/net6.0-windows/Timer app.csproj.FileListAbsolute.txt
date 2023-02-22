@@ -1,0 +1,17 @@
+C:\Users\amina\Desktop\C# dersler\Timer app\Timer app\obj\Debug\net6.0-windows\Timer app.csproj.AssemblyReference.cache
+C:\Users\amina\Desktop\C# dersler\Timer app\Timer app\obj\Debug\net6.0-windows\Timer_app.Form1.resources
+C:\Users\amina\Desktop\C# dersler\Timer app\Timer app\obj\Debug\net6.0-windows\Timer app.csproj.GenerateResource.cache
+C:\Users\amina\Desktop\C# dersler\Timer app\Timer app\obj\Debug\net6.0-windows\Timer app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amina\Desktop\C# dersler\Timer app\Timer app\obj\Debug\net6.0-windows\Timer app.AssemblyInfoInputs.cache
+C:\Users\amina\Desktop\C# dersler\Timer app\Timer app\obj\Debug\net6.0-windows\Timer app.AssemblyInfo.cs
+C:\Users\amina\Desktop\C# dersler\Timer app\Timer app\obj\Debug\net6.0-windows\Timer app.csproj.CoreCompileInputs.cache
+C:\Users\amina\Desktop\C# dersler\Timer app\Timer app\bin\Debug\net6.0-windows\Timer app.exe
+C:\Users\amina\Desktop\C# dersler\Timer app\Timer app\bin\Debug\net6.0-windows\Timer app.deps.json
+C:\Users\amina\Desktop\C# dersler\Timer app\Timer app\bin\Debug\net6.0-windows\Timer app.runtimeconfig.json
+C:\Users\amina\Desktop\C# dersler\Timer app\Timer app\bin\Debug\net6.0-windows\Timer app.dll
+C:\Users\amina\Desktop\C# dersler\Timer app\Timer app\bin\Debug\net6.0-windows\Timer app.pdb
+C:\Users\amina\Desktop\C# dersler\Timer app\Timer app\obj\Debug\net6.0-windows\Timer app.dll
+C:\Users\amina\Desktop\C# dersler\Timer app\Timer app\obj\Debug\net6.0-windows\refint\Timer app.dll
+C:\Users\amina\Desktop\C# dersler\Timer app\Timer app\obj\Debug\net6.0-windows\Timer app.pdb
+C:\Users\amina\Desktop\C# dersler\Timer app\Timer app\obj\Debug\net6.0-windows\Timer app.genruntimeconfig.cache
+C:\Users\amina\Desktop\C# dersler\Timer app\Timer app\obj\Debug\net6.0-windows\ref\Timer app.dll
